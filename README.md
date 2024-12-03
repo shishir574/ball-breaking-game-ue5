@@ -58,11 +58,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 - Prepare for a potential PC release.
 
 ---
-
-## **Credits**  
-- **Developer**: [Your Name]  
-- **Tools**: Unreal Engine, C++, Blender (if used), Visual Studio.  
-
+- **Tools**: Unreal Engine, C++, Visual Studio.  
 ---
 
 ## **License**  
